@@ -1,14 +1,26 @@
-layout_spectrum: 0.05564924
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.4856661
 color:
   saturation: 0.7133221
   brandStrength: 0.360691
-  lightness: 0.3726813
   rhythmicContrast: 0.7546374
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-typography_spectrum: 0.4856661
+    - '#000000'
+    - '#FFFFFF'
+    - '#6A6A6A'
+    - '#A7A7A7'
+    - '#2F2F2F'
+  lightness: 0.3726813
+layout_spectrum: 0.03634085
 name: Caper Films
