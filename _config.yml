@@ -1,3 +1,4 @@
+typography_spectrum: 0.4856661
 color:
   saturation: 0.7133221
   brandStrength: 0.360691
@@ -9,6 +10,8 @@ color:
     - '#A7A7A7'
     - '#2F2F2F'
   lightness: 0.3726813
+layout_spectrum: 1
+name: Caper Films
 collections:
   - index:
       path: /
@@ -21,6 +24,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
-typography_spectrum: 0.4856661
-name: Caper Films
